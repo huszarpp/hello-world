@@ -1,3 +1,7 @@
 valami
 semmi
+<<<<<<< HEAD
 bármi
+=======
+szerver change
+>>>>>>> a4ed40af1a370293bb252fada4ec8dfb19fc796c
