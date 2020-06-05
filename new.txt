@@ -4,3 +4,4 @@ bármi
 szerver change
 local git changed
 local git changed again
+szerver change again
